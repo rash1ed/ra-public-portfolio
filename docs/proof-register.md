@@ -7,9 +7,13 @@
 | Three reproducible sample workbooks | https://github.com/rash1ed/ra-excel-assurance-engine/tree/main/samples |
 | Issue-rich sample returns 6 findings across all five categories | https://github.com/rash1ed/ra-excel-assurance-engine/blob/main/docs/validation.txt |
 | Clean sample returns 0 findings | https://github.com/rash1ed/ra-excel-assurance-engine/blob/main/docs/validation.txt |
-| Runtime has no third-party Python package dependencies | https://github.com/rash1ed/ra-excel-assurance-engine/blob/main/pyproject.toml |
-| Non-destructive review copy in v0.1 | https://github.com/rash1ed/ra-excel-assurance-engine/blob/main/tests/test_auditor.py |
-| CI validation | https://github.com/rash1ed/ra-excel-assurance-engine/actions |
+| Excel runtime has no third-party Python package dependencies | https://github.com/rash1ed/ra-excel-assurance-engine/blob/main/pyproject.toml |
+| Excel non-destructive review copy in v0.1 | https://github.com/rash1ed/ra-excel-assurance-engine/blob/main/tests/test_auditor.py |
+| Excel CI validation | https://github.com/rash1ed/ra-excel-assurance-engine/actions |
+| 8 / 8 RA Verifier Agent tests passing | https://github.com/rash1ed/ra-verifier-agent/blob/main/docs/validation.txt |
+| Verifier returned PASS on Excel Assurance Engine | https://github.com/rash1ed/ra-verifier-agent/blob/main/docs/excel-engine-verification.txt |
+| Verifier tests execute against a temporary copy | https://github.com/rash1ed/ra-verifier-agent/blob/main/verifier/checks.py |
+| Verifier CI validation | https://github.com/rash1ed/ra-verifier-agent/actions |
 | Career Operations OS uses defined routing and evidence states | ../case-studies/career-operations-os.md |
 | Client delivery uses checkpoint and QA stages | ../case-studies/client-delivery-automation.md |
 

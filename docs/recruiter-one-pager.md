@@ -17,6 +17,15 @@ I build practical workflows that make work easier to track, verify and report.
 
 Public proof: https://github.com/rash1ed/ra-excel-assurance-engine
 
+**RA Verifier Agent v0.1**
+- 8 / 8 verifier tests passing
+- PASS / FAIL / HOLD verification model
+- test re-execution against temporary copies
+- secret-pattern and claim-to-evidence checks
+- GitHub Actions CI passing
+
+Public proof: https://github.com/rash1ed/ra-verifier-agent
+
 **Career Operations OS**
 - structured opportunity verification and routing
 - follow-up and execution evidence
