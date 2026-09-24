@@ -1,0 +1,13 @@
+# Local/private artifacts
+.env
+*.env
+secrets/
+private/
+credentials/
+*.key
+*.pem
+__pycache__/
+.DS_Store
+Thumbs.db
+docs/Parked_CV_Bullets.md
+case-studies/ra-codex-v6.md
