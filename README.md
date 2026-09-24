@@ -29,6 +29,11 @@ Verified results from the public project:
 
 Public repository: https://github.com/rash1ed/ra-excel-assurance-engine
 
+Direct evidence:
+- Validation: https://github.com/rash1ed/ra-excel-assurance-engine/blob/main/docs/validation.txt
+- Tests: https://github.com/rash1ed/ra-excel-assurance-engine/tree/main/tests
+- CI: https://github.com/rash1ed/ra-excel-assurance-engine/actions
+
 ## Featured case studies
 
 ### 01 — Excel Assurance Engine
