@@ -25,6 +25,29 @@ CV updated with 2 new projects (Excel Assurance Engine, Verifier Agent).
 - EN SHA-256: `3CE23B8588ABF2D3AF580BCD89BE3819C34E59BFE7A74B99EA8C922814C63678`
 - AR SHA-256: `1E26FCAF509E1447E09BF876DC8C640AE85B9F0B981BDF79E4A4F81F8855C4CB`
 
+
+
+## LinkedIn Proof-to-Profile publication — 2026-09-24
+
+Published profile: `https://www.linkedin.com/in/rashid-abdulaziz-albloushi/`
+
+- Headline published:
+  `Operations & Administrative Coordinator | PMO Support | Business Reporting & Data Analysis | Excel, Power BI & Python | Jeddah`
+- About: approved open-source operations/reporting addition published at the end of the existing About text.
+- Featured:
+  - RA Excel Assurance Engine — direct GitHub repository link.
+  - RA Verifier Agent — public preview adapter (`linkedin-verifier.html`) that redirects to the canonical GitHub repository because LinkedIn could not generate a preview for the direct repository URL despite public HTTP 200 and complete Open Graph metadata.
+  - RA Public Portfolio — direct GitHub Pages link.
+- Skills published: `Python`, `GitHub Actions`, `Data Quality`, `Test Automation`.
+- Published-profile readback: PASS for Headline, About, Featured, and all four Skills.
+- LinkedIn post created: NO.
+- Evidence folder (Drive): `1HBJpXgNU3ZtnGWR_lpp8rqecPOaC4_FG`
+- Final evidence files:
+  - Headline: `1GJhlE_WtkAXHrSgGX_KKEHWFY4EVnSO-`
+  - About: `1PYuOqmoXv_QhogwveEQNah4UJ2hBKQ84`
+  - Featured: `1cTOPvYH5P2m8LIQMVR9zeurWJSQiHc7J`
+  - Skills: `1mObezJCcHyjVDS-KzTrQLi1jLIphD1Dy`
+
 ## Publication rule
 
 No numeric claim is promoted publicly unless it is traceable to inspectable evidence.
