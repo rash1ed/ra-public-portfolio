@@ -34,6 +34,25 @@ Direct evidence:
 - Tests: https://github.com/rash1ed/ra-excel-assurance-engine/tree/main/tests
 - CI: https://github.com/rash1ed/ra-excel-assurance-engine/actions
 
+### RA Verifier Agent v0.1
+
+An evidence-first verifier that checks required files, SHA-256 expectations, configured tests, secret patterns and numeric claims against evidence.
+
+Verified public results:
+- **8 / 8 verifier tests passing**
+- Excel Assurance Engine verification: **PASS**
+- PASS / FAIL / HOLD status model
+- Configured tests execute against a temporary copy instead of mutating the source artifact
+- GitHub Actions CI: **success**
+
+Public repository: https://github.com/rash1ed/ra-verifier-agent
+
+Direct evidence:
+- Validation: https://github.com/rash1ed/ra-verifier-agent/blob/main/docs/validation.txt
+- Excel verification: https://github.com/rash1ed/ra-verifier-agent/blob/main/docs/excel-engine-verification.txt
+- Tests: https://github.com/rash1ed/ra-verifier-agent/tree/main/tests
+- CI: https://github.com/rash1ed/ra-verifier-agent/actions
+
 ## Featured case studies
 
 ### 01 — Excel Assurance Engine
@@ -41,12 +60,17 @@ Workbook QA for operational reporting with direct OOXML parsing, evidence report
 
 [Read the case study](case-studies/excel-assurance-engine.md)
 
-### 02 — Career Operations OS
+### 02 — RA Verifier Agent
+Independent verification of project artifacts with PASS / FAIL / HOLD controls, test re-execution, secret scanning and claim-to-evidence checks.
+
+[Read the case study](case-studies/verifier-agent.md)
+
+### 03 — Career Operations OS
 An auditable career workflow covering discovery, verification, routing, follow-up and execution evidence.
 
 [Read the case study](case-studies/career-operations-os.md)
 
-### 03 — Client Delivery Automation
+### 04 — Client Delivery Automation
 A structured project-delivery workflow covering inputs, revisions, schedules, BOQs, QA, packaging and recovery.
 
 [Read the case study](case-studies/client-delivery-automation.md)
