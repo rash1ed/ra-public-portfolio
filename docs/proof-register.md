@@ -2,15 +2,16 @@
 
 | Claim | Public evidence |
 |---|---|
-| 5 / 5 Excel Assurance Engine tests passing | ra-excel-assurance-engine/docs/validation.txt |
-| Five deterministic workbook QA checks | Public auditor source |
-| Three reproducible sample workbooks | Public samples directory |
-| Issue-rich sample returns 6 findings across all five categories | Public validation transcript |
-| Clean sample returns 0 findings | Public validation transcript |
-| Runtime has no third-party Python package dependencies | Public pyproject.toml |
-| Non-destructive review copy in v0.1 | Public source and safe-copy test |
-| Career Operations OS uses defined routing and evidence states | Public case-study description |
-| Client delivery uses checkpoint and QA stages | Public case-study description |
+| 5 / 5 Excel Assurance Engine tests passing | https://github.com/rash1ed/ra-excel-assurance-engine/blob/main/docs/validation.txt |
+| Five deterministic workbook QA checks | https://github.com/rash1ed/ra-excel-assurance-engine/blob/main/ra_excel_assurance/auditor.py |
+| Three reproducible sample workbooks | https://github.com/rash1ed/ra-excel-assurance-engine/tree/main/samples |
+| Issue-rich sample returns 6 findings across all five categories | https://github.com/rash1ed/ra-excel-assurance-engine/blob/main/docs/validation.txt |
+| Clean sample returns 0 findings | https://github.com/rash1ed/ra-excel-assurance-engine/blob/main/docs/validation.txt |
+| Runtime has no third-party Python package dependencies | https://github.com/rash1ed/ra-excel-assurance-engine/blob/main/pyproject.toml |
+| Non-destructive review copy in v0.1 | https://github.com/rash1ed/ra-excel-assurance-engine/blob/main/tests/test_auditor.py |
+| CI validation | https://github.com/rash1ed/ra-excel-assurance-engine/actions |
+| Career Operations OS uses defined routing and evidence states | ../case-studies/career-operations-os.md |
+| Client delivery uses checkpoint and QA stages | ../case-studies/client-delivery-automation.md |
 
 ## Publication rule
 
