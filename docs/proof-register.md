@@ -14,6 +14,12 @@
 | Verifier returned PASS on Excel Assurance Engine | https://github.com/rash1ed/ra-verifier-agent/blob/main/docs/excel-engine-verification.txt |
 | Verifier tests execute against a temporary copy | https://github.com/rash1ed/ra-verifier-agent/blob/main/verifier/checks.py |
 | Verifier CI validation | https://github.com/rash1ed/ra-verifier-agent/actions |
+| 10 / 10 Operations Control Tower approved tests passing | https://github.com/rash1ed/ra-operations-control-tower/blob/main/docs/validation.txt |
+| Control Tower CSV and Microsoft Excel XLSX end-to-end smoke | https://github.com/rash1ed/ra-operations-control-tower/blob/main/docs/validation.txt |
+| Control Tower five-sheet OOXML report contract | https://github.com/rash1ed/ra-operations-control-tower/blob/main/tests/test_phase2d.py |
+| Control Tower runtime has no third-party Python package dependencies | https://github.com/rash1ed/ra-operations-control-tower/blob/main/pyproject.toml |
+| Control Tower CI validation — Python 3.11 and 3.12 | https://github.com/rash1ed/ra-operations-control-tower/actions/runs/36060835535 |
+| Control Tower Excel-rendered evidence | https://github.com/rash1ed/ra-operations-control-tower/tree/main/docs/evidence |
 | Career Operations OS uses defined routing and evidence states | ../case-studies/career-operations-os.md |
 | Client delivery uses checkpoint and QA stages | ../case-studies/client-delivery-automation.md |
 
