@@ -17,6 +17,14 @@
 | Career Operations OS uses defined routing and evidence states | ../case-studies/career-operations-os.md |
 | Client delivery uses checkpoint and QA stages | ../case-studies/client-delivery-automation.md |
 
+## CV canonical update — 2026-09-24
+
+CV updated with 2 new projects (Excel Assurance Engine, Verifier Agent).
+
+- Date: 2026-09-24
+- EN SHA-256: `3CE23B8588ABF2D3AF580BCD89BE3819C34E59BFE7A74B99EA8C922814C63678`
+- AR SHA-256: `1E26FCAF509E1447E09BF876DC8C640AE85B9F0B981BDF79E4A4F81F8855C4CB`
+
 ## Publication rule
 
 No numeric claim is promoted publicly unless it is traceable to inspectable evidence.
