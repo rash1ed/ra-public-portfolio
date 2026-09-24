@@ -41,6 +41,7 @@ Published profile: `https://www.linkedin.com/in/rashid-abdulaziz-albloushi/`
 - Skills published: `Python`, `GitHub Actions`, `Data Quality`, `Test Automation`.
 - Published-profile readback: PASS for Headline, About, Featured, and all four Skills.
 - LinkedIn post created: NO.
+- Exception: LinkedIn failed to generate preview for direct GitHub URL (ra-verifier-agent). Workaround: hosted preview adapter on rash1ed.github.io that redirects to canonical repo. Adapter URL: https://rash1ed.github.io/ra-public-portfolio/linkedin-verifier.html Direct URL: https://github.com/rash1ed/ra-verifier-agent Verified: HTTP 200, OG metadata present, manual fallback link present (Continue to Repository →).
 - Evidence folder (Drive): `1HBJpXgNU3ZtnGWR_lpp8rqecPOaC4_FG`
 - Final evidence files:
   - Headline: `1GJhlE_WtkAXHrSgGX_KKEHWFY4EVnSO-`
