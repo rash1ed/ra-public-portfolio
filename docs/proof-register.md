@@ -20,6 +20,13 @@
 | Control Tower runtime has no third-party Python package dependencies | https://github.com/rash1ed/ra-operations-control-tower/blob/main/pyproject.toml |
 | Control Tower CI validation — Python 3.11 and 3.12 | https://github.com/rash1ed/ra-operations-control-tower/actions/runs/36060835535 |
 | Control Tower Excel-rendered evidence | https://github.com/rash1ed/ra-operations-control-tower/tree/main/docs/evidence |
+| 13 / 13 Career Action Engine approved tests passing | https://github.com/rash1ed/ra-career-action-engine/blob/main/docs/validation.txt |
+| Career Action Engine contract audit — CLI-only date.today, NOT_SENT submission state, source-locked draft | https://github.com/rash1ed/ra-career-action-engine/blob/main/docs/validation.txt |
+| Career Action Engine deterministic CLI smoke — 4 synthetic messages, 4 / 4 NOT_SENT | https://github.com/rash1ed/ra-career-action-engine/blob/main/docs/validation.txt |
+| Career Action Engine runtime has no third-party Python package dependencies | https://github.com/rash1ed/ra-career-action-engine/blob/main/pyproject.toml |
+| Career Action Engine Verifier gate PASS summary | https://github.com/rash1ed/ra-career-action-engine/blob/main/docs/verifier-summary.txt |
+| Career Action Engine CI validation — Python 3.11 and 3.12 | https://github.com/rash1ed/ra-career-action-engine/actions/runs/36105586859 |
+| Career Action Engine v0.1 public fixtures are synthetic labelled fixtures | https://github.com/rash1ed/ra-career-action-engine/blob/main/samples/README.md |
 | Career Operations OS uses defined routing and evidence states | ../case-studies/career-operations-os.md |
 | Client delivery uses checkpoint and QA stages | ../case-studies/client-delivery-automation.md |
 
