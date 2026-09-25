@@ -26,6 +26,30 @@ Public proof: https://github.com/rash1ed/ra-excel-assurance-engine
 
 Public proof: https://github.com/rash1ed/ra-verifier-agent
 
+**RA Operations Control Tower v0.1**
+- 10 / 10 approved tests passing
+- CSV/XLSX operations reporting into five-sheet Excel output
+- KPI, RAG, overdue and RAID views
+- Microsoft Excel open/readback evidence
+
+Public proof: https://github.com/rash1ed/ra-operations-control-tower
+
+**RA Career Action Engine v0.1**
+- 13 / 13 approved tests passing
+- contract audit and CLI smoke PASS
+- deterministic matching/drafting with explicit NOT_SENT state
+- no sending or session automation authority
+
+Public proof: https://github.com/rash1ed/ra-career-action-engine
+
+**RA Career Orchestrator v0.1**
+- 12 / 12 approved tests passing
+- read-only lane health reconciliation
+- autonomous scheduled run every five minutes
+- live smoke exposes Portal DEGRADED / Cloud EXTERNAL rather than claiming false green
+
+Public proof: https://github.com/rash1ed/ra-career-orchestrator
+
 **Career Operations OS**
 - structured opportunity verification and routing
 - follow-up and execution evidence

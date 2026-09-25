@@ -34,6 +34,9 @@
 | Career Orchestrator runtime has no third-party Python package dependencies | https://github.com/rash1ed/ra-career-orchestrator/blob/main/pyproject.toml |
 | Career Orchestrator Verifier gate PASS summary | https://github.com/rash1ed/ra-career-orchestrator/blob/main/docs/verifier-summary.txt |
 | Career Orchestrator CI validation — Python 3.11 and 3.12 | https://github.com/rash1ed/ra-career-orchestrator/actions/runs/36110245007 |
+| Operations Control Tower recruiter-facing case study | ../case-studies/operations-control-tower.md |
+| Career Action Engine recruiter-facing case study | ../case-studies/career-action-engine.md |
+| Career Orchestrator recruiter-facing case study | ../case-studies/career-orchestrator.md |
 | Career Operations OS uses defined routing and evidence states | ../case-studies/career-operations-os.md |
 | Client delivery uses checkpoint and QA stages | ../case-studies/client-delivery-automation.md |
 

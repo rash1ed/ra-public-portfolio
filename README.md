@@ -53,6 +53,45 @@ Direct evidence:
 - Tests: https://github.com/rash1ed/ra-verifier-agent/tree/main/tests
 - CI: https://github.com/rash1ed/ra-verifier-agent/actions
 
+### RA Operations Control Tower v0.1
+
+A deterministic operations-reporting CLI for validated CSV/XLSX trackers.
+
+Verified public results:
+- **10 / 10 approved tests passing**
+- CSV and Microsoft Excel XLSX end-to-end smoke passing
+- five-sheet Excel reporting contract
+- generated reports opened successfully in Microsoft Excel
+- runtime dependencies: **0 third-party Python packages**
+
+Public repository: https://github.com/rash1ed/ra-operations-control-tower
+
+### RA Career Action Engine v0.1
+
+A deterministic, local proof of a controlled opportunity workflow with explicit NOT_SENT state.
+
+Verified public results:
+- **13 / 13 approved tests passing**
+- contract audit: **PASS**
+- CLI smoke: **PASS**
+- public fixtures are synthetic
+- no sending, scraping, LinkedIn session automation, browser automation or LLM calls
+
+Public repository: https://github.com/rash1ed/ra-career-action-engine
+
+### RA Career Orchestrator v0.1
+
+A read-only health-reconciliation control plane for the existing Career OS.
+
+Verified public results:
+- **12 / 12 approved tests passing**
+- contract audit: **PASS**
+- autonomous Windows run every five minutes
+- recorded scheduler Last Result: **0**
+- live smoke reports lane-level truth rather than forcing a false green state
+
+Public repository: https://github.com/rash1ed/ra-career-orchestrator
+
 ## Featured case studies
 
 ### 01 — Excel Assurance Engine
@@ -74,6 +113,21 @@ An auditable career workflow covering discovery, verification, routing, follow-u
 A structured project-delivery workflow covering inputs, revisions, schedules, BOQs, QA, packaging and recovery.
 
 [Read the case study](case-studies/client-delivery-automation.md)
+
+### 05 — RA Operations Control Tower
+Deterministic operations reporting from validated CSV/XLSX trackers into KPI, RAG, overdue, RAID and executive-summary views.
+
+[Read the case study](case-studies/operations-control-tower.md)
+
+### 06 — RA Career Action Engine
+A controlled local opportunity pipeline that keeps preparation evidence separate from external submission state.
+
+[Read the case study](case-studies/career-action-engine.md)
+
+### 07 — RA Career Orchestrator
+Read-only health reconciliation across local worker, action bridge, portal and cloud-evidence lanes.
+
+[Read the case study](case-studies/career-orchestrator.md)
 ## What I bring to an operations or PMO team
 
 1. Define a reliable source of truth.
