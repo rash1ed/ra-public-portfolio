@@ -27,6 +27,13 @@
 | Career Action Engine Verifier gate PASS summary | https://github.com/rash1ed/ra-career-action-engine/blob/main/docs/verifier-summary.txt |
 | Career Action Engine CI validation — Python 3.11 and 3.12 | https://github.com/rash1ed/ra-career-action-engine/actions/runs/36105586859 |
 | Career Action Engine v0.1 public fixtures are synthetic labelled fixtures | https://github.com/rash1ed/ra-career-action-engine/blob/main/samples/README.md |
+| 12 / 12 Career Orchestrator v0.1 approved tests passing | https://github.com/rash1ed/ra-career-orchestrator/blob/main/docs/validation.txt |
+| Career Orchestrator contract audit — no send/submit authority and read-only scheduled-task probe | https://github.com/rash1ed/ra-career-orchestrator/blob/main/docs/validation.txt |
+| Career Orchestrator live read-only smoke — local AI PASS, Action Bridge PASS, portal DEGRADED, cloud EXTERNAL | https://github.com/rash1ed/ra-career-orchestrator/blob/main/docs/live-smoke-sanitized.json |
+| Career Orchestrator autonomous Windows scheduler — every 5 minutes, Last Result 0 | https://github.com/rash1ed/ra-career-orchestrator/blob/main/docs/validation.txt |
+| Career Orchestrator runtime has no third-party Python package dependencies | https://github.com/rash1ed/ra-career-orchestrator/blob/main/pyproject.toml |
+| Career Orchestrator Verifier gate PASS summary | https://github.com/rash1ed/ra-career-orchestrator/blob/main/docs/verifier-summary.txt |
+| Career Orchestrator CI validation — Python 3.11 and 3.12 | https://github.com/rash1ed/ra-career-orchestrator/actions/runs/36110245007 |
 | Career Operations OS uses defined routing and evidence states | ../case-studies/career-operations-os.md |
 | Client delivery uses checkpoint and QA stages | ../case-studies/client-delivery-automation.md |
 
