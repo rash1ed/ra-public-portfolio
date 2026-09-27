@@ -123,3 +123,13 @@ footer{
   .metrics article{border-right:0;border-bottom:1px solid var(--line)}
   .metrics article:last-child{border-bottom:0}
   .section{padding:68px 0}
+
+.section-copy{color:var(--muted);font-size:16px;line-height:1.6;margin:18px 0 0}
+.featured-grid{grid-template-columns:repeat(3,1fr)}
+.featured-card{border-color:#445225;background:linear-gradient(180deg,#1a2117,var(--panel));box-shadow:0 0 0 1px rgba(214,255,92,.04) inset}
+.featured-card .num{font-size:11px}
+.secondary-grid{grid-template-columns:repeat(3,1fr)}
+.secondary-card{min-height:270px;background:linear-gradient(180deg,#14191f,#101419)}
+.secondary-card h3{font-size:21px;margin:22px 0 12px}
+.secondary-card p{font-size:14px}
+@media(max-width:780px){.featured-grid,.secondary-grid{grid-template-columns:1fr}}
