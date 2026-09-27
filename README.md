@@ -129,6 +129,25 @@ Read-only health reconciliation across local worker, action bridge, portal and c
 
 [Read the case study](case-studies/career-orchestrator.md)
 
+
+## Featured AI Operations Case Study
+
+
+### RA Agent Operations Control Tower
+
+
+An original Operations / PMO case study for governing AI-agent teams with role hierarchy, budgets, workload, heartbeat freshness and deterministic RAG health.
+
+
+- **16 / 16 repository tests passed**
+- Synthetic/public-safe demo data
+- Evidence-first, deterministic health rules
+- Inspired by modern agent-operations patterns; not a Paperclip fork
+
+
+[View the case study](case-studies/agent-operations-control-tower.md) · [View the source repository](https://github.com/rash1ed/ra-operations-control-tower)
+
+
 ## Excel Dashboard Projects
 
 Three recruiter-facing Excel projects use **synthetic data only** and can be inspected visually before downloading.
