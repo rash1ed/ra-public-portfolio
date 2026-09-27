@@ -148,3 +148,14 @@ A browser-ready landing page is available in [index.html](index.html).
 ## Public-safe by design
 
 This repository excludes credentials, private endpoints, employer correspondence, personal application records and unverified numeric claims.
+
+
+## Excel Dashboard Projects
+
+Three downloadable, recruiter-facing Excel projects are available in [`excel-projects/`](excel-projects/):
+
+- [Operations & PMO Executive Dashboard](excel-projects/RA_Operations_PMO_Executive_Dashboard.xlsx) — KPI, RAG, overdue, RAID and project-completion reporting.
+- [Customer Service SLA Dashboard](excel-projects/RA_Customer_Service_SLA_Dashboard.xlsx) — SLA compliance, backlog, CSAT and agent performance.
+- [Inventory & Logistics Control Dashboard](excel-projects/RA_Inventory_Logistics_Control_Dashboard.xlsx) — inventory value, stock cover, reorder risk and supplier visibility.
+
+[Read the Excel project guide](excel-projects/README.md). All included datasets are synthetic and public-safe.
