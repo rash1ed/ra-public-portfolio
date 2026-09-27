@@ -189,3 +189,17 @@ A browser-ready landing page is available in [index.html](index.html).
 ## Public-safe by design
 
 This repository excludes credentials, private endpoints, employer correspondence, personal application records and unverified numeric claims. Portfolio dashboard datasets are synthetic and use generic labels such as `Agent A`, `Owner A`, and `Supplier A`.
+
+## Featured SQL Analytics Project
+
+### RA Operations SQL Analytics
+
+A recruiter-facing SQL case study for Operations, Reporting and Data Analysis using a synthetic service-operations dataset. It demonstrates joins, CTEs, CASE rules, window functions, SLA/backlog analysis and deterministic SQLite validation.
+
+- **8 / 8 project tests passed**
+- 72 synthetic service tickets
+- Executive KPI, team performance, backlog aging, channel/priority mix, agent rankings and category risk queries
+- Public-safe generic agent labels only
+
+[View the SQL project](sql-projects/operations-sql-analytics/README.md)
+
