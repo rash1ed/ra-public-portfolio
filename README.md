@@ -128,6 +128,28 @@ A controlled local opportunity pipeline that keeps preparation evidence separate
 Read-only health reconciliation across local worker, action bridge, portal and cloud-evidence lanes.
 
 [Read the case study](case-studies/career-orchestrator.md)
+
+## Excel Dashboard Projects
+
+Three recruiter-facing Excel projects use **synthetic data only** and can be inspected visually before downloading.
+
+### Operations & PMO Executive Dashboard
+![Operations & PMO Executive Dashboard](excel-projects/previews/operations-pmo-dashboard.png)
+
+[Download workbook](excel-projects/RA_Operations_PMO_Executive_Dashboard.xlsx)
+
+### Customer Service SLA Dashboard
+![Customer Service SLA Dashboard](excel-projects/previews/customer-service-sla-dashboard.png)
+
+[Download workbook](excel-projects/RA_Customer_Service_SLA_Dashboard.xlsx)
+
+### Inventory & Logistics Control Dashboard
+![Inventory & Logistics Control Dashboard](excel-projects/previews/inventory-logistics-dashboard.png)
+
+[Download workbook](excel-projects/RA_Inventory_Logistics_Control_Dashboard.xlsx)
+
+[Read the Excel project guide](excel-projects/README.md).
+
 ## What I bring to an operations or PMO team
 
 1. Define a reliable source of truth.
@@ -147,15 +169,4 @@ A browser-ready landing page is available in [index.html](index.html).
 
 ## Public-safe by design
 
-This repository excludes credentials, private endpoints, employer correspondence, personal application records and unverified numeric claims.
-
-
-## Excel Dashboard Projects
-
-Three downloadable, recruiter-facing Excel projects are available in [`excel-projects/`](excel-projects/):
-
-- [Operations & PMO Executive Dashboard](excel-projects/RA_Operations_PMO_Executive_Dashboard.xlsx) — KPI, RAG, overdue, RAID and project-completion reporting.
-- [Customer Service SLA Dashboard](excel-projects/RA_Customer_Service_SLA_Dashboard.xlsx) — SLA compliance, backlog, CSAT and agent performance.
-- [Inventory & Logistics Control Dashboard](excel-projects/RA_Inventory_Logistics_Control_Dashboard.xlsx) — inventory value, stock cover, reorder risk and supplier visibility.
-
-[Read the Excel project guide](excel-projects/README.md). All included datasets are synthetic and public-safe.
+This repository excludes credentials, private endpoints, employer correspondence, personal application records and unverified numeric claims. Portfolio dashboard datasets are synthetic and use generic labels such as `Agent A`, `Owner A`, and `Supplier A`.

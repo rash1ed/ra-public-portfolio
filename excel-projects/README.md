@@ -4,6 +4,8 @@ Recruiter-facing spreadsheet portfolio projects using **synthetic data only**. E
 
 ## 1. Operations & PMO Executive Dashboard
 
+![Operations & PMO Executive Dashboard](previews/operations-pmo-dashboard.png)
+
 **File:** [RA_Operations_PMO_Executive_Dashboard.xlsx](RA_Operations_PMO_Executive_Dashboard.xlsx)
 
 Demonstrates:
@@ -16,6 +18,8 @@ Demonstrates:
 
 ## 2. Customer Service SLA Dashboard
 
+![Customer Service SLA Dashboard](previews/customer-service-sla-dashboard.png)
+
 **File:** [RA_Customer_Service_SLA_Dashboard.xlsx](RA_Customer_Service_SLA_Dashboard.xlsx)
 
 Demonstrates:
@@ -26,6 +30,8 @@ Demonstrates:
 - Agent-level performance summaries
 
 ## 3. Inventory & Logistics Control Dashboard
+
+![Inventory & Logistics Control Dashboard](previews/inventory-logistics-dashboard.png)
 
 **File:** [RA_Inventory_Logistics_Control_Dashboard.xlsx](RA_Inventory_Logistics_Control_Dashboard.xlsx)
 
@@ -39,4 +45,4 @@ Demonstrates:
 
 ## Public-data note
 
-All workbook records are synthetic and created for portfolio demonstration. No employer, customer, candidate or private operational data is included.
+All workbook records are synthetic and created for portfolio demonstration. No employer, customer, candidate or private operational data is included. Human-like demo labels were normalized to generic identifiers such as `Agent A` and `Owner A` before public publishing.
