@@ -1,0 +1,5 @@
+[
+  {"id":"TR-001","topic":"Weekly KPI Reporting","owner":"Reporting Analyst","audience":"internal","steps":["Collect source data","Validate totals","Refresh dashboard","Publish summary"]},
+  {"id":"TR-002","topic":"Customer Escalation Guide","owner":"Operations Coordinator","audience":"external","steps":["Confirm issue type","Document evidence","Escalate by severity"]},
+  {"id":"TR-003","topic":"RAID Register Maintenance","owner":"PMO Coordinator","audience":"internal","policy_sensitive":true,"steps":["Log item","Assign owner","Set due date","Review status"]}
+]

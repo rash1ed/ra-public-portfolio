@@ -1,0 +1,15 @@
+test_build_ready (test_training_pipeline.TrainingPipelineTests.test_build_ready) ... ok
+test_build_waiting_review (test_training_pipeline.TrainingPipelineTests.test_build_waiting_review) ... ok
+test_completion_rate (test_training_pipeline.TrainingPipelineTests.test_completion_rate) ... ok
+test_external_requires_review (test_training_pipeline.TrainingPipelineTests.test_external_requires_review) ... ok
+test_missing_steps_holds (test_training_pipeline.TrainingPipelineTests.test_missing_steps_holds) ... ok
+test_normalize_steps (test_training_pipeline.TrainingPipelineTests.test_normalize_steps) ... ok
+test_plan_counts (test_training_pipeline.TrainingPipelineTests.test_plan_counts) ... ok
+test_policy_sensitive_requires_review (test_training_pipeline.TrainingPipelineTests.test_policy_sensitive_requires_review) ... ok
+test_valid_module (test_training_pipeline.TrainingPipelineTests.test_valid_module) ... ok
+test_zero_total_is_none (test_training_pipeline.TrainingPipelineTests.test_zero_total_is_none) ... ok
+
+----------------------------------------------------------------------
+Ran 10 tests in 0.001s
+
+OK

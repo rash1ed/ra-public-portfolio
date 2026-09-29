@@ -77,3 +77,15 @@ Published profile: `https://www.linkedin.com/in/rashid-abdulaziz-albloushi/`
 No numeric claim is promoted publicly unless it is traceable to inspectable evidence.
 
 No credentials, private endpoints, employer correspondence, personal identifiers or confidential client artifacts are included.
+
+## CV and LinkedIn alignment — 2026-09-29
+
+- User-approved EN/AR CV pair promoted to canonical Master Final after Word/PDF review.
+- Current CV positioning: `Operations & Reporting Professional | PMO | Business Analysis | Data Analysis`.
+- LinkedIn headline published: `Operations & Reporting Professional | PMO | Business Analysis | Data Analysis | Excel, Power BI, SQL & Python | Jeddah`.
+- LinkedIn About aligned to Operations, PMO, Business Analysis, Reporting and Data Analysis.
+- Email applications use the approved EN + AR Master Final pair; portal applications use one approved Master Final CV by language/context.
+- Portfolio headline branding aligned to Operations × PMO × Reporting × Data.
+
+- Workflow Controls Toolkit — 10 / 10 tests passing: ../workflow-controls-toolkit/docs/validation.txt
+- Training & Documentation Pipeline — 10 / 10 tests passing: ../training-documentation-pipeline/docs/validation.txt

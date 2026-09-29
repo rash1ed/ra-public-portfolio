@@ -1,0 +1,5 @@
+[
+  {"id":"OPS-001","category":"reporting","priority":"high","actions":["validate","prepare_report"]},
+  {"id":"OPS-002","category":"service","priority":"low","actions":["validate","assign","report"]},
+  {"id":"OPS-003","category":"procurement","priority":"high","amount":15000,"actions":["validate","review","approve"]}
+]

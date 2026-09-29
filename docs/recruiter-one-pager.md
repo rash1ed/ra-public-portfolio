@@ -2,7 +2,7 @@
 
 ## Positioning
 
-**Operations + PMO + Business Reporting + Data + Automation**
+**Operations + PMO + Business Analysis + Reporting + Data**
 
 I build practical workflows that make work easier to track, verify and report.
 
@@ -60,6 +60,17 @@ Public proof: https://github.com/rash1ed/ra-career-orchestrator
 - revision tracking and QA
 - delivery packaging with evidence
 
+
+**Workflow Controls Toolkit**
+- 10 / 10 unit tests passing
+- validation, routing, approval gates and bounded retry controls
+- explicit READY / WAITING_APPROVAL / HOLD states
+
+**Training & Documentation Pipeline**
+- 10 / 10 unit tests passing
+- training/SOP input validation and review gates
+- plan-level readiness reporting
+
 ## Best-fit roles
 
 Operations Coordinator / Analyst  
@@ -67,7 +78,7 @@ PMO Coordinator / PMO Analyst
 Project Coordinator  
 Business Reporting / Performance Analyst  
 Data & Reporting Analyst  
-Process Improvement / Automation Support
+Process Improvement / Business Analysis
 
 ## Working style
 

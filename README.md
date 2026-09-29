@@ -1,8 +1,8 @@
-# RA | Operations, PMO, Data & Automation Portfolio
+# RA | Operations, PMO, Reporting & Data Portfolio
 
 **RASHID ABDULAZIZ — Saudi Arabia**
 
-This portfolio focuses on practical operations, PMO, reporting and automation work with evidence that can be inspected and reproduced.
+This portfolio focuses on practical operations, PMO, business reporting and data work with evidence that can be inspected and reproduced.
 
 ## Core areas
 
@@ -10,7 +10,7 @@ This portfolio focuses on practical operations, PMO, reporting and automation wo
 - PMO support, governance and reporting
 - Excel and business data quality
 - Power BI and management reporting
-- Workflow automation with verification and recovery controls
+- Workflow controls, validation and recovery
 
 ## Verified proof
 
@@ -130,7 +130,7 @@ Read-only health reconciliation across local worker, action bridge, portal and c
 [Read the case study](case-studies/career-orchestrator.md)
 
 
-## Featured AI Operations Case Study
+## Featured Operations Governance Case Study
 
 
 ### RA Agent Operations Control Tower
@@ -203,3 +203,23 @@ A recruiter-facing SQL case study for Operations, Reporting and Data Analysis us
 
 [View the SQL project](sql-projects/operations-sql-analytics/README.md)
 
+
+## Additional Operations / Business Analysis Projects
+
+### Workflow Controls Toolkit
+A deterministic workflow-control example covering validation, routing, approvals, task fan-out and bounded retry behavior.
+
+- **10 / 10 tests passing**
+- Explicit READY / WAITING_APPROVAL / HOLD states
+- Synthetic data only
+
+[Read the project](workflow-controls-toolkit/README.md) · [Validation](workflow-controls-toolkit/docs/validation.txt)
+
+### Training & Documentation Pipeline
+A deterministic planning example for training modules and SOP-style documentation with required inputs, review gates and plan-level status reporting.
+
+- **10 / 10 tests passing**
+- Explicit READY / WAITING_REVIEW / HOLD states
+- Synthetic data only
+
+[Read the project](training-documentation-pipeline/README.md) · [Validation](training-documentation-pipeline/docs/validation.txt)

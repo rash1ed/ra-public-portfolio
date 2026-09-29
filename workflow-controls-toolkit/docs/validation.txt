@@ -1,0 +1,15 @@
+test_approval_gate (test_workflow_toolkit.WorkflowToolkitTests.test_approval_gate) ... ok
+test_default_route (test_workflow_toolkit.WorkflowToolkitTests.test_default_route) ... ok
+test_fan_out (test_workflow_toolkit.WorkflowToolkitTests.test_fan_out) ... ok
+test_priority_route (test_workflow_toolkit.WorkflowToolkitTests.test_priority_route) ... ok
+test_retry_cap (test_workflow_toolkit.WorkflowToolkitTests.test_retry_cap) ... ok
+test_specific_route (test_workflow_toolkit.WorkflowToolkitTests.test_specific_route) ... ok
+test_validation_holds_missing (test_workflow_toolkit.WorkflowToolkitTests.test_validation_holds_missing) ... ok
+test_validation_passes (test_workflow_toolkit.WorkflowToolkitTests.test_validation_passes) ... ok
+test_workflow_ready (test_workflow_toolkit.WorkflowToolkitTests.test_workflow_ready) ... ok
+test_workflow_waiting_approval (test_workflow_toolkit.WorkflowToolkitTests.test_workflow_waiting_approval) ... ok
+
+----------------------------------------------------------------------
+Ran 10 tests in 0.002s
+
+OK
